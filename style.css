@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+}
+h1{
+    font-width: 2.5em;
+    text-align: center;
+}
+p{
+    font-width: 1em;
+}
+.ulken{
+    font-width: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+.strong{
+    font-width: 1.5em;
+}
+.mark{
+    font-width: 0.75em;
+}
